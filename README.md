@@ -109,5 +109,3 @@ We welcome contributions! Follow these steps to get started:
 
 ---
 
-Feel free to contribute or share feedback to improve this project!
-
